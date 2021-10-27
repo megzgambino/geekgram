@@ -1,0 +1,96 @@
+{
+  "posts": [
+    {
+      "user": {
+        "name": "Mimi",
+        "picture": "https://randomuser.me/api/portraits/lego/1.jpg"
+      },
+      "caption": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dapibus ultrices in iaculis nunc sed augue lacus. Quam nulla porttitor massa id neque aliquam. Ultrices mi tempus imperdiet nulla malesuada. Eros in cursus turpis massa tincidunt dui ut ornare lectus. Egestas sed sed risus pretium",
+      "thumbnail": "https://images.unsplash.com/photo-1531693892421-995d7996f0e7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1535&q=80",
+      "createdAt": "2020-04-16",
+      "id": 5
+    },
+    {
+      "user": {
+        "name": "Madun",
+        "picture": "https://randomuser.me/portraits/lego/1.jpg"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1632725514223-cf9d9af6c096?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "caption": "I love you",
+      "createdAt": "2021-09-28",
+      "id": 6
+    },
+    {
+      "user": {
+        "name": "Hello",
+        "picture": "https://randomuser.me/portraits/lego/6.jpg"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1632678583339-f97f8a95ecae?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw4fHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "caption": "Little hand",
+      "createdAt": "2021-09-27",
+      "id": 7
+    },
+    {
+      "user": {
+        "name": "Stevie",
+        "picture": "https://randomuser.me/portraits/lego/9.jpg"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1632714655358-b35b57375c77?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "caption": "Solitude is a bliss",
+      "createdAt": "2021-09-28",
+      "id": 8
+    },
+    {
+      "user": {
+        "name": "Mail",
+        "picture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1598662779094-110c2bad80b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1546&q=80",
+      "caption": "Mechanical Keyboard or not at all ",
+      "createdAt": "2021-10-27",
+      "id": 10
+    },
+    {
+      "user": {
+        "name": "Madun",
+        "picture": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnN8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1617096819670-6de2869bbd2e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=627&q=80",
+      "caption": "Mechanical Keyboards Yes, Drugs No",
+      "createdAt": "2021-11-03",
+      "id": 11
+    }
+  ],
+  "liked": [
+    {
+      "user": {
+        "name": "Madun",
+        "picture": "https://randomuser.me/portraits/lego/1.jpg"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1632725514223-cf9d9af6c096?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "caption": "I love you",
+      "createdAt": "2021-09-28",
+      "id": 6
+    },
+    {
+      "user": {
+        "name": "Mail",
+        "picture": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1598662779094-110c2bad80b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1546&q=80",
+      "caption": "Mechanical Keyboard or not at all ",
+      "createdAt": "2021-10-27",
+      "id": 10
+    },
+    {
+      "user": {
+        "name": "Stevie",
+        "picture": "https://randomuser.me/portraits/lego/9.jpg"
+      },
+      "thumbnail": "https://images.unsplash.com/photo-1632714655358-b35b57375c77?ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "caption": "Solitude is a bliss",
+      "createdAt": "2021-09-28",
+      "id": 8
+    }
+  ]
+}
